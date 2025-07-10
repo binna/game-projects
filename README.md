@@ -6,7 +6,7 @@
   
 - **설명** : 고양이가 장애물을 피하고 츄르를 모으는 2D 점프 게임
   
-- 🔗 [GitHub 바로가기](https://github.com/binna/MeowJumpGame)
+- **GitHub Repository** : [Meow Jump Game](https://github.com/binna/MeowJumpGame)
   
 - 🛠 기술 스택
   | 항목      | 내용                |

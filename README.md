@@ -9,7 +9,7 @@
   2D 전투 RPG  
   (상세 내용은 레포지토리 참고)
 
-- **시연 영상**
+- **시연 영상**  
   🎥[YouTube로 가기](https://www.youtube.com/watch?v=jal_0tfmpjY)
   
 - **GitHub Repository**  
@@ -32,7 +32,7 @@
   고양이가 장애물을 피하고 츄르를 모으는 2D 점프 게임  
   (상세 내용은 레포지토리 참고)
 
-- **시연 영상**
+- **시연 영상**  
   🎥[YouTube로 가기](https://www.youtube.com/watch?v=BIQlgI6KWB4)
   
 - **GitHub Repository**  

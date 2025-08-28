@@ -8,7 +8,7 @@
   
 - **GitHub Repository** : [Verdant Valor](https://github.com/binna/VerdantValor)
   
-- 🛠 기술 스택
+- **기술 스택**
   | 항목      | 내용                |
   |-----------|---------------------|
   | Engine    | Unity 6000.0.46f1   |
@@ -24,7 +24,7 @@
   
 - **GitHub Repository** : [Meow Jump Game](https://github.com/binna/MeowJumpGame)
   
-- 🛠 기술 스택
+- **기술 스택**
   | 항목      | 내용                |
   |-----------|---------------------|
   | Engine    | Unity 6000.0.46f1   |

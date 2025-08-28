@@ -8,9 +8,12 @@
 - **설명**  
   2D 전투 RPG  
   (상세 내용은 레포지토리 참고)
+
+- **시연 영상**
+  🎥[YouTube로 가기](https://www.youtube.com/watch?v=jal_0tfmpjY)
   
 - **GitHub Repository**  
-  [🔗Verdant Valor](https://github.com/binna/VerdantValor)
+  🔗[Verdant Valor](https://github.com/binna/VerdantValor)
   
 - **기술 스택**
   | 항목      | 내용                |
@@ -28,9 +31,12 @@
 - **설명**  
   고양이가 장애물을 피하고 츄르를 모으는 2D 점프 게임  
   (상세 내용은 레포지토리 참고)
+
+- **시연 영상**
+  🎥[YouTube로 가기](https://www.youtube.com/watch?v=BIQlgI6KWB4)
   
 - **GitHub Repository**  
-  [🔗Meow Jump Game](https://github.com/binna/MeowJumpGame)
+  🔗[Meow Jump Game](https://github.com/binna/MeowJumpGame)
   
 - **기술 스택**
   | 항목      | 내용                |
